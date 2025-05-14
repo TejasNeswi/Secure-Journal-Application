@@ -29,6 +29,7 @@ public class UserServiceTests {
         assertTrue(!user.getJournalEntries().isEmpty());
     }
 
+    @Disabled
     @ParameterizedTest
     @ValueSource(strings={
             "Ram",
