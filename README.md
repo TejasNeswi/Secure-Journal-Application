@@ -76,10 +76,6 @@ The application will start on the default port 8080.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Support
 
-For support, please open an issue in the repository or contact the development team. 
+For support, please contact neswitejas@gmail.com. 
